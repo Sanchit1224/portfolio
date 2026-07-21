@@ -33,14 +33,14 @@ export const metadata: Metadata = {
     url: "https://sanchit-gade.vercel.app",
     siteName: "Sanchit Gade",
     type: "website",
-    images: [{ url: "/profile.JPEG", width: 1200, height: 630, alt: "Sanchit Gade" }],
+    images: [{ url: "/profile.jpeg", width: 1200, height: 630, alt: "Sanchit Gade" }],
   },
   twitter: {
     card: "summary_large_image",
     title: "Sanchit Gade | Backend Engineer & Full Stack Builder",
     description:
       "Scalable backend systems, distributed services, and modern web applications built with care.",
-    images: ["/profile.JPEG"],
+    images: ["/profile.jpeg"],
   },
 };
 
