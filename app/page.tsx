@@ -360,7 +360,7 @@ export default function Home() {
               </div>
               <div className="mt-5 overflow-hidden rounded-[28px] border border-white/10 bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 p-3">
                 <Image
-                  src="/profile-new.JPEG"
+                  src="/profile.JPEG"
                   alt="Sanchit Gade"
                   width={750}
                   height={720}
